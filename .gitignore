@@ -1,0 +1,25 @@
+# Archivos temporales o creados por el sistema
+.DS_Store
+Thumbs.db
+
+# Directorios generados por Python
+__pycache__/
+venv/
+*.pyc
+
+# Archivos de configuración de entorno
+.env
+
+# Archivos de registro y caches
+*.log
+logs/
+*.cache
+
+# Archivos de datos o resultados de pruebas locales
+data/
+results/
+
+# Dependiendo del proyecto, puedes añadir más reglas específicas aquí
+entorno-script/lib/
+entorno-script/bin/
+entorno-script/include/
